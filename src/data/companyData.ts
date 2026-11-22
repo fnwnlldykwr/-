@@ -51,7 +51,7 @@ export const COMPANY_INFO = {
   heroTitle: 'نصنع من المساحات العادية عالماً من الجمال والفخامة.',
   heroSubtitle:
     'في فنون للديكور، نحول أفكارك إلى تصاميم واقعية تجمع بين الإبداع والدقة والجودة، من التصميم الهندسي إلى التنفيذ والتشطيبات النهائية.',
-  heroImage: '/src/assets/images/hero_luxury_interior_funun_1795053975616.jpg',
+  heroImage: '/assets/aistudio/1795207415241_effe83c8.jpg',
   aboutTitle: 'نحن فنون... حيث يلتقي الإبداع بجمال التفاصيل.',
   aboutParagraphs: [
     'فنون للديكور شركة متخصصة في أعمال التصميم والتنفيذ والديكورات الداخلية والخدمات الهندسية والمقاولات العامة في مدينة عدن.',
@@ -59,8 +59,8 @@ export const COMPANY_INFO = {
     'نؤمن بأن كل مساحة تستحق تصميماً يعكس شخصية أصحابها، ولذلك نحرص على تقديم أعمال تجمع بين الذوق والجودة والاهتمام بالتفاصيل.',
   ],
   aboutImages: {
-    main: '/assets/aistudio/IMG-20261118-WA0030_d75ac8cd.jpg',
-    secondary: '/assets/aistudio/IMG-20261118-WA0035_8f610ba0.jpg',
+    main: '/assets/aistudio/1_0dee882e.jpg',
+    secondary: '/assets/aistudio/Screenshot_________________Maps_1a9e874a.jpg',
   },
   contact: {
     phone: '+967777655419',
@@ -104,7 +104,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'تنسيق المداخل والممرات وغرف النوم',
       'توزيع مدروس للإضاءة المخفية والحديثة',
     ],
-    image: '/assets/aistudio/IMG-20261118-WA0032_f1d6d46a.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_16f375dc.jpg',
     relatedPortfolioCategory: 'majlis',
   },
   {
@@ -122,7 +122,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'تصميم طاولات العرض والكاونترات والأقواس الديكورية',
       'توزيع الإضاءة التسويقية لإبراز المنتجات والخدمات',
     ],
-    image: '/assets/aistudio/IMG-20261118-WA0028_5fccac0e.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_a3bcd1a9.jpg',
     relatedPortfolioCategory: 'commercial',
   },
   {
@@ -140,7 +140,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'معالجة المساحات والزوايا بحلول ديكورية مبتكرة',
       'تشطيبات دقيقة تراعي الذوق الشخصي للعميل',
     ],
-    image: '/assets/aistudio/IMG-20261118-WA0024_1db427d5.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_8699e62d.jpg',
     relatedPortfolioCategory: 'majlis',
   },
   {
@@ -158,7 +158,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'مخططات الأسقف الجبسية وتوزيع مسارات الإضاءة',
       'مواءمة التصميم مع متطلبات التنفيذ الفعلي',
     ],
-    image: '/assets/aistudio/IMG-20261118-WA0031_58168dce.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_43015b64.jpg',
     relatedPortfolioCategory: 'majlis',
   },
   {
@@ -176,7 +176,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'استشارات فنية لاختيار أنسب الخامات والتصاميم',
       'متابعة جودة مراحل التنفيذ خطوة بخطوة',
     ],
-    image: '/assets/aistudio/IMG-20261118-WA0026_19792d45.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_1a9e874a.jpg',
     relatedPortfolioCategory: 'majlis',
   },
   {
@@ -194,7 +194,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'التزام بالدقة في التفاصيل وجودة التشطيبات',
       'توفير الوقت والجهد عبر التعامل مع جهة واحدة مسؤولة',
     ],
-    image: '/assets/aistudio/IMG-20261118-WA0035_8f610ba0.jpg',
+    image: '/assets/aistudio/1_0dee882e.jpg',
     relatedPortfolioCategory: 'tv-units',
   },
   {
@@ -212,7 +212,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'طاولات كونسول معلقة وخزائن عرض زجاجية وخشبية',
       'تأسيس مخفي ومتقن لمآخذ الكهرباء والتلفزيون',
     ],
-    image: '/assets/aistudio/IMG-20261118-WA0004_bb69c056.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_7045d8a0.jpg',
     relatedPortfolioCategory: 'tv-units',
   },
   {
@@ -230,7 +230,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'أسقف مجالس كلاسيكية مزخرفة بنقوش ذهبية وإضاءة مخفية',
       'تشطيبات ناعمة ومستوية بأعلى معايير الدقة',
     ],
-    image: '/assets/aistudio/IMG-20261118-WA0029_5ebed9fc.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_8f5958ff.jpg',
     relatedPortfolioCategory: 'ceilings',
   },
 
@@ -250,7 +250,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'تركيب احترافي بدون فواصل ظاهرة مع إضاءة خلفية',
       'تنوع في الألوان والعروق الرخامية لتناسب كل مساحة',
     ],
-    image: '/assets/aistudio/IMG-20261118-WA0011_f7727f75.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_43058f9b.jpg',
     relatedPortfolioCategory: 'marble-wood',
   },
   {
@@ -268,7 +268,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'تناغم مثالي مع بديل الرخام والمرايا والإضاءة الخطية',
       'متوفر بدرجات لونية ومقاسات مضلعة متعددة',
     ],
-    image: '/assets/aistudio/IMG-20261118-WA0030_d75ac8cd.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_abf2b114.jpg',
     relatedPortfolioCategory: 'marble-wood',
   },
   {
@@ -286,7 +286,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'جداريات بارزة ونقوش ثلاثية الأبعاد متقنة',
       'قواطع وتجاويف جدارية (نيش) للعرض والإضاءة',
     ],
-    image: '/assets/aistudio/IMG-20261118-WA0018_f267829d.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_27781f69.jpg',
     relatedPortfolioCategory: 'walls',
   },
   {
@@ -304,7 +304,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'تركيب متقن مع معالجة الجدار الأساسي لضمان الاستدامة',
       'تشكيلة واسعة من التصاميم الهادئة والجداريات البارزة',
     ],
-    image: '/assets/aistudio/IMG-20261118-WA0009_002b5a8d.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_d3da4c45.jpg',
     relatedPortfolioCategory: 'walls',
   },
   {
@@ -322,7 +322,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'تناسق رائع مع مسارات الإضاءة السوداء والذهبية',
       'متانة عالية ومظهر عصري هادئ للمجالس والشاشات',
     ],
-    image: '/assets/aistudio/IMG-20261118-WA0010_92c8e67b.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_988923a4.jpg',
     relatedPortfolioCategory: 'marble-wood',
   },
   {
@@ -340,7 +340,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'عزل صوتي وحراري وملمس خشبي طبيعي مريح',
       'تركيب سريع ودقيق بنظام القفل المتشابك مع النعلات',
     ],
-    image: '/assets/aistudio/IMG-20261118-WA0021_8db3b81e.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_8699e62d.jpg',
     relatedPortfolioCategory: 'entrances',
   },
   {
@@ -358,7 +358,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'حماية أسفل الجدران من الرطوبة والصدمات أثناء التنظيف',
       'تشطيب انسيابي يخفي تمديدات الأسلاك بالكامل',
     ],
-    image: '/assets/aistudio/IMG-20261118-WA0008_01b1d737.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_64003cc1.jpg',
     relatedPortfolioCategory: 'entrances',
   },
   {
@@ -376,7 +376,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'مقاومة للرطوبة وقابلة للدهان بجميع الألوان',
       'مثالية للمجالس، صالات الطعام، والمداخل المرتفعة',
     ],
-    image: '/assets/aistudio/IMG-20261118-WA0031_58168dce.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_3e9a25d8.jpg',
     relatedPortfolioCategory: 'majlis',
   },
   {
@@ -394,7 +394,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'ضبط دقيق للمقاسات والمحاور في منتصف الجدار',
       'تكامل بصري مع براويز الفوم وبديل الرخام والخشب',
     ],
-    image: '/assets/aistudio/IMG-20261118-WA0039_260f645b.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_8699e62d.jpg',
     relatedPortfolioCategory: 'walls',
   },
   {
@@ -412,7 +412,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'تأثيرات رخامية وميتاليك أو ألوان موحدة هادئة',
       'تحمل عالٍ للاستخدام اليومي في المنازل والمعارض',
     ],
-    image: '/assets/aistudio/IMG-20261118-WA0022_1e5c04f1.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_f61731fc.jpg',
     relatedPortfolioCategory: 'entrances',
   },
   {
@@ -430,7 +430,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'استخدام دهانات عالية الجودة قابلة للغسيل وثابتة اللون',
       'تنسيق لوني مدروس مع الإضاءة والأثاث والتكسيات',
     ],
-    image: '/assets/aistudio/IMG-20261118-WA0026_19792d45.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_3e9a25d8.jpg',
     relatedPortfolioCategory: 'majlis',
   },
   {
@@ -448,7 +448,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'دمج الإضاءة الداخلية والزجاج الأسود مع الخزائن الخشبية',
       'مفصلات وسكك سحب ناعمة وعمر افتراضي طويل',
     ],
-    image: '/assets/aistudio/IMG-20261118-WA0037_ad835ca0.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_68331749.jpg',
     relatedPortfolioCategory: 'tv-units',
   },
 
@@ -468,7 +468,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'تعديلات معمارية وتوسعة وإعادة تقسيم المساحات',
       'إشراف هندسي مباشر والتزام بمعايير السلامة والجودة',
     ],
-    image: '/assets/aistudio/IMG-20261118-WA0039_260f645b.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_f61731fc.jpg',
     relatedPortfolioCategory: 'walls',
   },
   {
@@ -486,7 +486,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'تأسيس دقيق للكهرباء ونقاط الإضاءة الذكية والمخفية',
       'تركيب الأرضيات والجبسيات والدهانات بجودة عالية',
     ],
-    image: '/assets/aistudio/IMG-20261118-WA0020_fdd4d3a8.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_7f425aff.jpg',
     relatedPortfolioCategory: 'tv-units',
   },
   {
@@ -504,7 +504,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'تركيب كافة التكسيات الجدارية والخزائن والإضاءات',
       'تسليم المشروع نظيفاً وجاهزاً للاستخدام',
     ],
-    image: '/assets/aistudio/IMG-20261118-WA0035_8f610ba0.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_64003cc1.jpg',
     relatedPortfolioCategory: 'tv-units',
   },
 ];
@@ -530,7 +530,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     description:
       'تصميم مجلس فاخر بارتفاع مزدوج يجمع بين جدارية بارزة بخطوط انسيابية، تكسيات خشبية جانبية مع وحدات إضاءة جدارية، وثريا ذهبية.',
     materialsUsed: ['جداريات 3D', 'بديل الخشب', 'إضاءة مخفية دافئة'],
-    image: '/assets/aistudio/IMG-20261118-WA0024_1db427d5.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_16f375dc.jpg',
   },
   {
     id: 'work-02',
@@ -541,7 +541,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     description:
       'شاشة تلفزيون جدارية بتصميم عصري ذي زوايا دائرية ناعمة باللون البيج الدافئ، مع وحدة عرض جانبية مضاءة وتكسيات خشبية خلفية.',
     materialsUsed: ['شاشات جدارية', 'بديل الشيبورد', 'النجارة الخشبية', 'إضاءة LED'],
-    image: '/assets/aistudio/IMG-20261118-WA0004_bb69c056.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_7045d8a0.jpg',
   },
   {
     id: 'work-03',
@@ -552,7 +552,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     description:
       'تصميم مدخل استثنائي يتوسطه كونسول خشبي معلق ومرآة طولية محاطة بألواح بديل الرخام المضاءة وشرائح بديل الخشب وسقف جبسي ببيت نور.',
     materialsUsed: ['بديل الرخام', 'بديل الخشب', 'أسقف جبسية', 'كونسول خشبي'],
-    image: '/assets/aistudio/IMG-20261118-WA0030_d75ac8cd.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_1a9e874a.jpg',
   },
   {
     id: 'work-04',
@@ -563,7 +563,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     description:
       'من أعمالنا المنفذة على أرض الواقع: وحدة شاشة جدارية تجمع بين التكسيات المنحنية باللون البيج، الزجاج الأسود اللامع مع أرفف، وأدراج خشبية معلقة.',
     materialsUsed: ['تنفيذ ميداني', 'شاشات جدارية', 'نجارة خشبية', 'مسارات إضاءة مغناطيسية'],
-    image: '/assets/aistudio/IMG-20261118-WA0035_8f610ba0.jpg',
+    image: '/assets/aistudio/1_0dee882e.jpg',
     isRealOnSiteExecution: true,
   },
   {
@@ -575,7 +575,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     description:
       'تصميم وتنفيذ متكامل لمحل تجاري وكافيه يتضمن أقواساً جدارية بإضاءات كروية، سقفاً جبسياً منحني الحواف بإضاءة دافئة، وواجهات عرض زجاجية.',
     materialsUsed: ['ديكور محلات تجارية', 'أسقف جبسية', 'نجارة وكاونترات', 'إضاءة ديكورية'],
-    image: '/assets/aistudio/IMG-20261118-WA0028_5fccac0e.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_a3bcd1a9.jpg',
   },
   {
     id: 'work-06',
@@ -586,7 +586,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     description:
       'تنفيذ واقعي لمكتبة شاشة تلفزيون ممتدة على كامل الجدار مع خزائن عرض جانبية بإطارات سوداء وإضاءة داخلية وأدراج خشبية سفلية.',
     materialsUsed: ['تنفيذ ميداني', 'النجارة الخشبية', 'شاشات جدارية', 'إضاءة مخفية'],
-    image: '/assets/aistudio/IMG-20261118-WA0037_ad835ca0.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_64003cc1.jpg',
     isRealOnSiteExecution: true,
   },
   {
@@ -598,7 +598,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     description:
       'تنفيذ ميداني متقن لجدار صالة رئيسي يضم لوحتين عموديتين بنقوش محفورة ثلاثية الأبعاد مع إضاءة طولية دافئة وتطعيمات رخامية داكنة.',
     materialsUsed: ['تنفيذ ميداني', 'الجبسيات وجداريات 3D', 'بديل الرخام', 'الدهانات'],
-    image: '/assets/aistudio/IMG-20261118-WA0039_260f645b.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_43015b64.jpg',
     isRealOnSiteExecution: true,
   },
   {
@@ -610,7 +610,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     description:
       'سقف جبسي فخم بتصميم قبة دائرية مزخرفة بالنقوش الذهبية البارزة وزخارف الإضاءة الليزرية المخفية مع جدار شاشة ببديل الرخام.',
     materialsUsed: ['أسقف جبسية مزخرفة', 'الجبسيات', 'بديل الرخام', 'إضاءة مخفية'],
-    image: '/assets/aistudio/IMG-20261118-WA0029_5ebed9fc.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_8f5958ff.jpg',
   },
   {
     id: 'work-09',
@@ -621,7 +621,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     description:
       'تناغم استثنائي بين جدارية فنية متموجة في صدر المجلس وألواح الرخام الطبيعي وبديل الخشب على الجانبين مع إضاءة جدارية دافئة.',
     materialsUsed: ['ديكورات جدران', 'بديل الرخام', 'بديل الخشب', 'مجالس وصالات'],
-    image: '/assets/aistudio/IMG-20261118-WA0032_f1d6d46a.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_d3da4c45.jpg',
   },
   {
     id: 'work-10',
@@ -632,7 +632,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     description:
       'تصميم فني لمدخل منزلي يجمع بين خط جبسي منحني مضاء من الخلف وشرائح بديل الخشب الداكن مع رف خشبي طبيعي معلق ونعلات مضيئة.',
     materialsUsed: ['الجبسيات المنحنية', 'بديل الخشب', 'النجارة الخشبية', 'نعلات مضيئة'],
-    image: '/assets/aistudio/IMG-20261118-WA0018_f267829d.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_8699e62d.jpg',
   },
   {
     id: 'work-11',
@@ -643,7 +643,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     description:
       'تنسيق هندسي متناوب بين ألواح بديل الرخام البيج وتكسيات الخشب الدافئ مع مسارات إضاءة LED عمودية خلف كنب المجلس.',
     materialsUsed: ['بديل الرخام', 'بديل الخشب', 'إضاءة مخفية'],
-    image: '/assets/aistudio/IMG-20261118-WA0011_f7727f75.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_43058f9b.jpg',
   },
   {
     id: 'work-12',
@@ -654,7 +654,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     description:
       'تصميم صالة استقبال رسمية بتكسيات جدارية كاملة من بديل الشيبورد وأعمدة شرائح بديل الخشب المضلعة مع سقف جبسي بإضاءة محيطية.',
     materialsUsed: ['بديل الشيبورد', 'بديل الخشب', 'أسقف جبسية'],
-    image: '/assets/aistudio/IMG-20261118-WA0010_92c8e67b.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_988923a4.jpg',
   },
   {
     id: 'work-13',
@@ -665,7 +665,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     description:
       'تنفيذ شاشة تلفزيون جدارية بتصميم منحني ناعم باللون الكريمي مع مكتبة خشبية سفلية معلقة وأرفف خشبية وسقف بإضاءة مغناطيسية.',
     materialsUsed: ['شاشات جدارية', 'النجارة الخشبية', 'أسقف جبسية'],
-    image: '/assets/aistudio/IMG-20261118-WA0020_fdd4d3a8.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_68331749.jpg',
     isRealOnSiteExecution: true,
   },
   {
@@ -677,7 +677,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     description:
       'تصميم بهو استقبال واسع مزين ببانوهات وبراويز الفوم الجدارية الكلاسيكية مع إضاءة سقفية خطية وثريا كريستالية فاخرة.',
     materialsUsed: ['براويز فوم', 'الدهانات', 'أسقف جبسية'],
-    image: '/assets/aistudio/IMG-20261118-WA0031_58168dce.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_3e9a25d8.jpg',
   },
   {
     id: 'work-15',
@@ -688,7 +688,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     description:
       'تكامل التصميم بين سقف جبسي حديث بمسارات إضاءة خطية وثريا متدلية مع جدران مزينة ببراويز الفوم والأبواب الزجاجية.',
     materialsUsed: ['أسقف جبسية', 'براويز فوم', 'ديكور منازل'],
-    image: '/assets/aistudio/IMG-20261118-WA0026_19792d45.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_27781f69.jpg',
   },
   {
     id: 'work-16',
@@ -699,7 +699,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     description:
       'جدارية بارزة ثلاثية الأبعاد بتفاصيل نباتية فنية مسلطة عليها إضاءة سبوت لايت دافئة ومؤطرة بشرائح بديل الخشب على الجانبين.',
     materialsUsed: ['ديكورات جدران 3D', 'ورق الحائط والجداريات', 'بديل الخشب'],
-    image: '/assets/aistudio/IMG-20261118-WA0009_002b5a8d.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_abf2b114.jpg',
   },
   {
     id: 'work-17',
@@ -710,7 +710,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     description:
       'تصميم ممر داخلي minimalist يبرز جمال الخطوط المعمارية النظيفة مع زاوية خشبية مقوسة وإضاءة LED محيطية.',
     materialsUsed: ['مداخل وممرات', 'بديل الخشب', 'نعلات وإضاءة مخفية'],
-    image: '/assets/aistudio/IMG-20261118-WA0008_01b1d737.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_f61731fc.jpg',
   },
   {
     id: 'work-18',
@@ -721,7 +721,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     description:
       'ديكور مدخل أنيق يجمع بين المرايا الطولية المقسمة هندسياً وشرائح بديل الخشب الأبيض مع كونسول معلق وأرضية باركيه SPC.',
     materialsUsed: ['بديل الخشب', 'باركيه SPC', 'مرايا وكونسول'],
-    image: '/assets/aistudio/IMG-20261118-WA0021_8db3b81e.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_7f425aff.jpg',
   },
   {
     id: 'work-19',
@@ -732,7 +732,7 @@ export const PORTFOLIO_ITEMS: PortfolioItem[] = [
     description:
       'مدخل مشرق بمرآة ممتدة من الأرض حتى السقف محاطة بمسارات إضاءة LED وشرائح جدارية مضلعة ورف كونسول أبيض معلق.',
     materialsUsed: ['مداخل وممرات', 'بديل الخشب', 'إضاءة LED طولية'],
-    image: '/assets/aistudio/IMG-20261118-WA0022_1e5c04f1.jpg',
+    image: '/assets/aistudio/Screenshot_________________Maps_1a9e874a.jpg',
   },
 ];
 

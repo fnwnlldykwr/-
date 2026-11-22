@@ -75,6 +75,9 @@ export const AboutSection: React.FC = () => {
                 src={COMPANY_INFO.aboutImages.main}
                 alt="تصميم وتنفيذ مدخل داخلي فاخر ببديل الرخام والخشب والمرايا - فنون للديكور"
                 referrerPolicy="no-referrer"
+                loading="eager"
+                fetchPriority="high"
+                decoding="async"
                 className="w-full h-full object-cover"
               />
               <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-[#080808]/90 via-[#080808]/50 to-transparent p-5 text-[#F7F3EA]">

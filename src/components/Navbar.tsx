@@ -52,6 +52,9 @@ export const Navbar: React.FC<NavbarProps> = ({ activeSection }) => {
               src={COMPANY_INFO.logo}
               alt="شعار فنون للديكور الرسمي - FUNUN DECOR"
               referrerPolicy="no-referrer"
+              loading="eager"
+              fetchPriority="high"
+              decoding="sync"
               className="h-11 lg:h-13 w-auto object-contain transition-transform duration-200 group-hover:scale-105"
             />
             <span className="text-lg sm:text-2xl font-display font-bold text-[#F7F3EA] tracking-tight">

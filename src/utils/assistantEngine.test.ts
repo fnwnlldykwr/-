@@ -23,6 +23,13 @@ test('companyData includes all 23 required services, 19 portfolio items, and pre
   assert.ok(COMPANY_INFO.contact.whatsappReadyUrl.startsWith('https://wa.me/967777655419?text='));
   assert.ok(decodeURIComponent(COMPANY_INFO.contact.whatsappReadyUrl).includes('فنون للديكور'));
   assert.equal(COMPANY_INFO.contact.googleMapsUrl, 'https://maps.app.goo.gl/k9PDkicGPWHvAUeJ9');
+  assert.ok(SERVICES_DATA.every((s) => !s.image.includes('IMG-20261118-WA')));
+  assert.ok(PORTFOLIO_ITEMS.every((p) => !p.image.includes('IMG-20261118-WA')));
+  const uniqueImages = new Set([
+    ...SERVICES_DATA.map((s) => s.image),
+    ...PORTFOLIO_ITEMS.map((p) => p.image),
+  ]);
+  assert.equal(uniqueImages.size, 18);
 });
 
 test('normalizeArabic unifies Arabic characters, tashkeel, and repeated letters', () => {

@@ -21,7 +21,10 @@ export const Hero: React.FC = () => {
           src={HERO_IMAGE.image}
           alt={HERO_IMAGE.caption}
           referrerPolicy="no-referrer"
-          className="w-full h-full object-cover object-[center_42%] brightness-[0.98] contrast-[1.04] transition-all duration-500"
+          loading="eager"
+          fetchPriority="high"
+          decoding="sync"
+          className="w-full h-full object-cover object-[center_42%] brightness-[0.98] contrast-[1.04]"
         />
         {/* Uniform dark luxury base tint */}
         <div
